@@ -1,4 +1,4 @@
-package json
+package jsonencoder
 
 import "unicode/utf8"
 

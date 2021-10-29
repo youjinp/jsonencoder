@@ -1,4 +1,4 @@
-package json
+package jsonencoder
 
 // JSONMarshalFunc is used to marshal interface to JSON encoded byte slice.
 // Making it package level instead of embedded in Encoder brings
